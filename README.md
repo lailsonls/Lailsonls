@@ -1,5 +1,5 @@
 ### Olá Eu sou Lailson Lourenço 👋
-- 🌱 I’m currently learning web desenvolvimento 
+- 🌱 I’m currently learning desenvolvimento web full stack
 - 📫 How to reach me: laiklj5@gmail.com
 - 😄 Pronouns: ele/dele
 <div>
