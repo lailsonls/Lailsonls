@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-
-Here are some ideas to get you started:
-
+### Olá Eu sou Lailson Loureço 👋
 - 🌱 I’m currently learning web desenvolvimento 
 - 📫 How to reach me: laiklj5@gmail.com
 - 😄 Pronouns: ele/dele
